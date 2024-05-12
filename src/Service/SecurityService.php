@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace App\Service;
 
-use App\Controller\SecurityController;
 use App\Entity\User;
 
 class SecurityService
